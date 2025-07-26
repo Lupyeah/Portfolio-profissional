@@ -1,7 +1,4 @@
 <h1 align="center"> Portfolio</h1>
-
-<br>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
