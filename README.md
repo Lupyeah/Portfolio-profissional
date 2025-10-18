@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 Meu Portfolio Dev!
-- [Para ver no site]
+- [Para ver no site](https://lupyeah.github.io/Portfolio-profissional)
 ---
 
 <div align="center">Feito com 💜 por <a href="https://github.com/Lupyeah">Luiza Fonseca</a>.</div>
